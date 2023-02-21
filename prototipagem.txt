@@ -1,0 +1,11 @@
+Uma empresa, que atua com o desenvolvimento de softwares e apps para smartphones, está criando um aplicativo para uma galeria de arte.
+O aplicativo permite que os clientes da região possam conhecer ou adquirir obras disponíveis no lugar, marcando visitas e reservando produtos. 
+No entanto, a empresa está preocupada com a interface e os comandos.
+O que você recomenda para diminuir essas inseguranças e os riscos?
+
+R- Daria início com uma prototipação, fazendo então com que os usuários possam ter uma noção inicial de como vão ser os produtos, reagindo 
+de uma forma tanto positiva como vegativa, o que daria aos desenvolvedores uma noção do que deve ser feito para agradar seu público-alvo.
+Para isso, seria necessário ver qual tipo de prototipagem vai ser feita, se uma prototipagem baixa, média ou alta. Mas independente do tipo
+de prototipagem, o essencial é alcançar o resultado esperado:conseguir fazer com que diminua ao máximo o risco de existirem erros na
+interface final do produto.
+
